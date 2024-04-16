@@ -1,8 +1,8 @@
 {
-  "name": "kollege",
+  "name": "ynov_demosite",
   "version": "0.9.0",
   "license": "MIT",
-  "description": "A College Based Data Management System.",
+  "description": "A University Based Data Management System.",
   "private": true,
   "dependencies": {
     "@fvilers/disable-react-devtools": "^1.3.0",
